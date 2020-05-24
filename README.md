@@ -1,7 +1,3 @@
-### Nashville Rock-and-Roll Marathon and Half-Marathon Race Results (2016 - 2019)  
+### Nashville Software School Project - Rock-and-Roll Marathon and Half-Marathon Race Results (2016 - 2019)  
 
-Simple data analysis from Rock-and-Roll Marathon data. I worked with a group for this project ([Cristina Attfield](https://github.com/cattfield), [Antonio Frederick](https://github.com/430modena)), but the provided spreadsheet is my own work. This was my first project with Nashville Software School. 
-
-
-
-
+This was my first project with Nashville Software School. The purpose was to get familiar with Excel. It is simple analysis on the [Rock-and-Roll Marathon](https://www.runrocknroll.com/Events/Nashville/The-Races/Marathon/) data. I worked in a group for this project along with ([Cristina Attfield](https://github.com/cattfield) and [Antonio Frederick](https://github.com/430modena)), but the analysis tab in the Marathon Data spreadsheet is my own work. This was my first project with Nashville Software School. 
